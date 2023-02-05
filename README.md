@@ -1,3 +1,3 @@
 # IBM-Data-Analytics
 
-Some text in this markdown file :)
+Assingments for the IBM Data Analitycs course on Coursera
